@@ -3,13 +3,11 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $LEGEND_REPO == "LEGENDBOT" ]]
+    
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1PUy9MRUdFTkRVU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
-    elif [[ $LEGEND_REPO == "LEGENDBOT" ]]
-    then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1PUy9MRUdFTkRVU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
-    elif [[ $LEGEND_REPO =~ $regex ]]
+    elif aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1PUy9MRUdFTkRVU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
+    elif $LEGEND_REPO =~ $regex ]]
     then
         if [[ $LEGEND_REPO_BRANCH ]]
         then
@@ -35,10 +33,10 @@ _set_bot () {
     echo "  LegendBot V2.O Cleaning.."
     rm -rf "$zippath"
     sleep 5
-    cd $LEGENDPATH
-    echo "    ⚜️Starting Lêɠêɳ̃dẞø†⚜️     "
+    cd $LEGENDPATH PHANTOM BO
+    echo "    ⚜️Starting "
     echo "
-    LEGENDBOT
+    PHANTOM BOT
     "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
