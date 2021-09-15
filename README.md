@@ -61,7 +61,7 @@ PHANTOM BOT
 
 ### StringSession
 
-[![String](https://telegra.ph/file/a6bca4695a54de983c015.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+[![PHANTOM BOT 
 
     - Click On Generate String
     - Then Click On Green Run Button.
