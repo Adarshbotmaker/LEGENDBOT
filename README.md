@@ -2,7 +2,7 @@
 <b> ✞︎tß PHANTOM BOT
 </h1>
 
-[![LEGENDBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
+[![PHANTOM BOT https://telegra.ph/file/455c52671f99a982749a5.jpg
 
 
 <p align="center">
