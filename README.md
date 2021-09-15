@@ -1,5 +1,5 @@
 <h1 align="center">
-<b> ✞︎tß Lêɠêɳ̃dẞø†</b>
+<b> ✞︎tß PHANTOM BOT
 </h1>
 
 [![LEGENDBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
@@ -26,7 +26,7 @@
 </p>
 
 
-## ⚡𝕷𝖊𝖌𝖊𝖓𝖉𝖆𝖗𝖞 ᴀғ 𝖑𝖊ɠêɳ̃dẞø✞︎⚡
+## ⚡𝕷𝖊𝖌𝖊𝖓𝖉𝖆𝖗𝖞 ᴀғ PHANTOM BOT
 ## 𝓐 𝕾мοοτн 𝓐и∂ 𝕱αѕτєѕτ 𝖀sєяϐοτ 𝕭αѕє∂ 𝕺и 𝕿𝖊ℓєτнοи 𝕷ιϐяαяγ.
 
 
@@ -77,9 +77,9 @@
 ------------
 # Do U Face Any Problem Contact me Through Telegram 
 
-<a href="https://t.me/joinchat/Legend_Userbot"><img src="https://img.shields.io/badge/Legend%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a  src="https://img.shields.io/badge/Legend%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 
-<a href="https://t.me/joinchat/Legend_Mr_Hacker"><img src="https://img.shields.io/badge/CREATOR%20ME-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a  src="https://img.shields.io/badge/CREATOR%20ME-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/joinchat/Legend_Mr_Hacker)
