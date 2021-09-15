@@ -74,14 +74,14 @@ PHANTOM BOT
 <h2 align="center"> <a href="https://github.com/LEGEND-OS/LEGENDUSERBOT">⚡ 𝕷êgèñd𝕭øt ⚡</a></h2>
 
 ------------
-# Do U Face Any Problem Contact me Through Telegram 
+# Do U Face Any Problem Contact me Through Telegram @phantombotupdates
 
 <a  src="https://img.shields.io/badge/Legend%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 
 <a  src="https://img.shields.io/badge/CREATOR%20ME-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/joinchat/Legend_Mr_Hacker)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)]@phantombotupdates
 
 
 <details>
